@@ -133,9 +133,14 @@ nav a:hover:after {
     color: #ffffff;
 }
 
-a {
+.cards a {
     text-decoration: none;
     color: #ffffff;
+}
+
+a {
+    text-decoration: none;
+    color: orangered
 }
 
 footer {
